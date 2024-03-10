@@ -5,7 +5,7 @@ This project uses ML to detect if a person has malignant (cancerous) or benign(n
 The project takes input from the users and then converted to relevant features such as,
 
  
-<h3>
+<h5>
 id -- Unique ID<br>
 diagnosis -- Target: M - Malignant B - Benign<br>
 radius_mean -- Radius of Lobes<br>
@@ -38,7 +38,7 @@ concavity_worst -- Worst Concavity<br>
 concave points_worst -- Worst Concave Points<br>
 symmetry_worst -- Worst Symmetry<br>
 fractal_dimension_worst -- Worst Fractal Dimension
-</h3>
+</h5>
 
 The above features are used as input to predict whether the person has malignant (cancerous) or benign(non cancerous) tumors.
 
