@@ -39,4 +39,4 @@ fractal_dimension_worst -- Worst Fractal Dimension
 
 The above features are used as input to predict whether the person has malignant (cancerous) or benign(non cancerous) tumors.
 
-The accuracy of the model is 92% and f_score is 0.67.
+The accuracy of the model is 96%.
